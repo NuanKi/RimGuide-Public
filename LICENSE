@@ -1,0 +1,16 @@
+RimGuide — All Rights Reserved
+
+Copyright © 2026 NuanKi. All rights reserved.
+
+You may use RimGuide's public API in a mod you write and distribute
+that mod. Your mod may treat RimGuide support as optional. You may
+use RimGuide's documented XML format and Def types to write, use,
+and distribute your own guide files.
+
+This permission applies only to the mod code and guide files you create.
+All rights to RimGuide itself are reserved. Copying, modifying,
+redistributing, or bundling RimGuide's source code, assemblies (including
+RimGuide.Api.dll), assets, or supplied guides requires separate permission
+from the copyright holder unless permitted by applicable law.
+
+Third-party materials remain subject to their respective terms.
