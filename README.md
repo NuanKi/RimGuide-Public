@@ -4,7 +4,7 @@ Public C# API and integration documentation for **RimGuide on RimWorld 1.7**. Ri
 
 ## Integrate with RimGuide
 
-Start with the [RimGuide API Wiki](https://github.com/NuanKi/RimGuide-Public/wiki) for the quick start and examples by topic. The Wiki also contains the [complete API reference](https://github.com/NuanKi/RimGuide-Public/wiki/API-Reference), [XML hook guides](https://github.com/NuanKi/RimGuide-Public/wiki/XML-Hooks), and [guide authoring documentation](https://github.com/NuanKi/RimGuide-Public/wiki/Guide-Authoring).
+The [RimGuide Wiki](https://github.com/NuanKi/RimGuide-Public/wiki) covers [Studio and help packs](https://github.com/NuanKi/RimGuide-Public/wiki/Studio-Quick-Start), [optional mod integration](https://github.com/NuanKi/RimGuide-Public/wiki/Quick-Start), [XML hooks](https://github.com/NuanKi/RimGuide-Public/wiki/XML-Hooks), and the [complete API reference](https://github.com/NuanKi/RimGuide-Public/wiki/API-Reference).
 
 - **Optional integration:** Use a reflection bridge to detect RimGuide and keep your mod working when it is absent. Load your guide XML only when RimGuide is active.
 - **Direct reference:** If your mod requires RimGuide, declare the dependency and reference `RimGuide.Api.dll` with copy-local disabled. Players load the API from their RimGuide installation.
